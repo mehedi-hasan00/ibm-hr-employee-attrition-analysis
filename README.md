@@ -2,7 +2,7 @@
 
 An end-to-end Data Analytics project covering data cleaning, exploratory data analysis, and interactive dashboard development on the IBM HR Analytics dataset.
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/dashboard_1.png)
 
 ---
 
@@ -76,7 +76,7 @@ All cleaning was performed in **Python (Jupyter Notebook)**.
 ![Dashboard 2](images/dashboard_2.png)
 
 ### Story 3 — Why Are They Leaving? Overtime & Travel Drive Attrition
-![Dashboard 3](images/dashboard_overview.png)
+![Dashboard 3](images/dashboard_3.png)
 
 ### Story 4 — Compensation Gap: Resigned Employees Earned 30% Less
 ![Dashboard 4](images/dashboard_4.png)
