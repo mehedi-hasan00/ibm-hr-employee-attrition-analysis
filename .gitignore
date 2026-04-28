@@ -1,0 +1,19 @@
+# Python environment
+__pycache__/
+*.py[cod]
+.env
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data files (Jehetu Kaggle link use korcho, local CSV ignore kora bhalo)
+*.csv
+
+# macOS specific
+.DS_Store
+
+# VS Code specific
+.vscode/
