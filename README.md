@@ -2,7 +2,7 @@
 
 An end-to-end Data Analytics project covering data cleaning, exploratory data analysis, and interactive dashboard development on the IBM HR Analytics dataset.
 
-![Dashboard Overview](images/dashboard_1.png)
+![Dashboard Overview](images/dashboard_2.png)
 
 ---
 

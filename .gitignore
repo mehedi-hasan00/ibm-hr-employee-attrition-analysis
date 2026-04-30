@@ -17,3 +17,5 @@ env/
 
 # VS Code specific
 .vscode/
+
+.docx
